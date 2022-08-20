@@ -1,0 +1,14 @@
+C:\Users\FAILEEN\source\repos\Login\Login\bin\Debug\Login.exe.config
+C:\Users\FAILEEN\source\repos\Login\Login\bin\Debug\Login.exe
+C:\Users\FAILEEN\source\repos\Login\Login\bin\Debug\Login.pdb
+C:\Users\FAILEEN\source\repos\Login\Login\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\FAILEEN\source\repos\Login\Login\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\FAILEEN\source\repos\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\FAILEEN\source\repos\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\FAILEEN\source\repos\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\FAILEEN\source\repos\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\FAILEEN\source\repos\Login\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\FAILEEN\source\repos\Login\Login\obj\Debug\Login.exe
+C:\Users\FAILEEN\source\repos\Login\Login\obj\Debug\Login.pdb
+C:\Users\FAILEEN\source\repos\Login\Login\obj\Debug\Login.Login.resources
+C:\Users\FAILEEN\source\repos\Login\Login\obj\Debug\ModernGUI_V3.FormPrincipal.resources
